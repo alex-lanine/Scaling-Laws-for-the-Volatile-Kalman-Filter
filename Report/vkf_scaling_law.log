@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.12)  25 NOV 2024 11:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.12)  25 NOV 2024 18:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/sashal/Documents/Fall_2024/VKF/good copy/Report/vkf_scaling_law"
-(/Users/sashal/Documents/Fall_2024/VKF/good copy/Report/vkf_scaling_law.tex
+**/Users/sashal/Documents/GitHub/Scaling-Laws-for-the-Volatile-Kalman-Filter/Report/vkf_scaling_law
+(/Users/sashal/Documents/GitHub/Scaling-Laws-for-the-Volatile-Kalman-Filter/Report/vkf_scaling_law.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-02-24> (/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -320,41 +320,80 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<../Figures/exp1_walk.png, id=15, 722.7pt x 433.62pt>
+<../Figures/exp1_walk.png, id=18, 722.7pt x 433.62pt>
 File: ../Figures/exp1_walk.png Graphic file (type png)
 <use ../Figures/exp1_walk.png>
-Package pdftex.def Info: ../Figures/exp1_walk.png  used on input line 94.
-(pdftex.def)             Requested size: 433.62334pt x 260.17401pt.
-<../Figures/exp1_vol.png, id=17, 722.7pt x 433.62pt>
+Package pdftex.def Info: ../Figures/exp1_walk.png  used on input line 117.
+(pdftex.def)             Requested size: 361.3491pt x 216.80946pt.
+ [2]
+<../Figures/exp1_vol.png, id=23, 722.7pt x 433.62pt>
 File: ../Figures/exp1_vol.png Graphic file (type png)
 <use ../Figures/exp1_vol.png>
-Package pdftex.def Info: ../Figures/exp1_vol.png  used on input line 99.
-(pdftex.def)             Requested size: 433.62334pt x 260.17401pt.
- [2 <../Figures/exp1_walk.png>]
-<../Figures/exp1_lr.png, id=22, 722.7pt x 433.62pt>
+Package pdftex.def Info: ../Figures/exp1_vol.png  used on input line 125.
+(pdftex.def)             Requested size: 361.3491pt x 216.80946pt.
+<../Figures/exp1_lr.png, id=24, 722.7pt x 433.62pt>
 File: ../Figures/exp1_lr.png Graphic file (type png)
 <use ../Figures/exp1_lr.png>
-Package pdftex.def Info: ../Figures/exp1_lr.png  used on input line 104.
-(pdftex.def)             Requested size: 433.62334pt x 260.17401pt.
-<../Figures/exp1_cors.png, id=23, 722.7pt x 578.16pt>
-File: ../Figures/exp1_cors.png Graphic file (type png)
-<use ../Figures/exp1_cors.png>
-Package pdftex.def Info: ../Figures/exp1_cors.png  used on input line 112.
-(pdftex.def)             Requested size: 433.62334pt x 346.89867pt.
- [3 <../Figures/exp1_vol.png> <../Figures/exp1_lr.png>] [4 <../Figures/exp1_cors.png>] [5] (./vkf_scaling_law.aux) ) 
+Package pdftex.def Info: ../Figures/exp1_lr.png  used on input line 133.
+(pdftex.def)             Requested size: 361.3491pt x 216.80946pt.
+ [3 <../Figures/exp1_walk.png> <../Figures/exp1_vol.png>]
+<../Figures/correlations1.png, id=30, 722.7pt x 433.62pt>
+File: ../Figures/correlations1.png Graphic file (type png)
+<use ../Figures/correlations1.png>
+Package pdftex.def Info: ../Figures/correlations1.png  used on input line 144.
+(pdftex.def)             Requested size: 361.3491pt x 216.80946pt.
+ [4 <../Figures/exp1_lr.png> <../Figures/correlations1.png>]
+<../Figures/regression1.png, id=36, 1011.78pt x 433.62pt>
+File: ../Figures/regression1.png Graphic file (type png)
+<use ../Figures/regression1.png>
+Package pdftex.def Info: ../Figures/regression1.png  used on input line 159.
+(pdftex.def)             Requested size: 505.88876pt x 216.80946pt.
+
+Overfull \hbox (36.13374pt too wide) in paragraph at lines 159--160
+ [][] 
+ []
+
+[5 <../Figures/regression1.png>]
+<../Figures/exp2_walk.png, id=44, 722.7pt x 433.62pt>
+File: ../Figures/exp2_walk.png Graphic file (type png)
+<use ../Figures/exp2_walk.png>
+Package pdftex.def Info: ../Figures/exp2_walk.png  used on input line 189.
+(pdftex.def)             Requested size: 361.3491pt x 216.80946pt.
+<../Figures/exp2_vol.png, id=45, 722.7pt x 433.62pt>
+File: ../Figures/exp2_vol.png Graphic file (type png)
+<use ../Figures/exp2_vol.png>
+Package pdftex.def Info: ../Figures/exp2_vol.png  used on input line 194.
+(pdftex.def)             Requested size: 361.3491pt x 216.80946pt.
+<../Figures/exp2_lr.png, id=46, 722.7pt x 433.62pt>
+File: ../Figures/exp2_lr.png Graphic file (type png)
+<use ../Figures/exp2_lr.png>
+Package pdftex.def Info: ../Figures/exp2_lr.png  used on input line 199.
+(pdftex.def)             Requested size: 361.3491pt x 216.80946pt.
+ [6 <../Figures/exp2_walk.png> <../Figures/exp2_vol.png>]
+<../Figures/regression2.png, id=52, 1011.78pt x 433.62pt>
+File: ../Figures/regression2.png Graphic file (type png)
+<use ../Figures/regression2.png>
+Package pdftex.def Info: ../Figures/regression2.png  used on input line 204.
+(pdftex.def)             Requested size: 505.88876pt x 216.80946pt.
+
+Overfull \hbox (36.13374pt too wide) in paragraph at lines 204--205
+ [][] 
+ []
+
+[7 <../Figures/exp2_lr.png> <../Figures/regression2.png>] (./vkf_scaling_law.aux) ) 
 Here is how much of TeX's memory you used:
- 6581 strings out of 478268
- 107382 string characters out of 5846347
- 407821 words of memory out of 5000000
- 24710 multiletter control sequences out of 15000+600000
- 478062 words of font info for 62 fonts, out of 8000000 for 9000
+ 6643 strings out of 478268
+ 108758 string characters out of 5846347
+ 411861 words of memory out of 5000000
+ 24759 multiletter control sequences out of 15000+600000
+ 480592 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,63p,561b,247s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on vkf_scaling_law.pdf (5 pages, 249487 bytes).
+ 55i,8n,63p,701b,315s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on vkf_scaling_law.pdf (7 pages, 524269 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 123 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
